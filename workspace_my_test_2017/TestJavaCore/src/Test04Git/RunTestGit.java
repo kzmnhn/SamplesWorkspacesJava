@@ -8,5 +8,9 @@ public class RunTestGit {
 		System.out.println("re'commit through eclipse");
 	}
 
+	public String formString(){
+		return "321654";
+	}
+	
 }
 
